@@ -2,6 +2,9 @@
 
 VyaparTracker is a comprehensive inventory management application designed specifically for small businesses. It provides an efficient way to track inventory, manage stock levels, and monitor business operations.
 
+## Author
+Created with ❤️ by Satyam
+
 ## Features
 
 - **Inventory Tracking**: Real-time monitoring of stock levels
